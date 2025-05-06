@@ -6,7 +6,6 @@
     - Add keybinds for relative window workspace moving
     - transparency mode???
     - minimize/hide windows??
- - remove stupid kitty sfx
  - make Kanata launch as subprocess with &???
  - Better Power Usage
     - Task Manager for Hyprland PLZ!!!
