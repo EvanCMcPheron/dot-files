@@ -52,3 +52,5 @@ if ! command -v zoxide &> /dev/null; then
 fi
 
 eval "$(zoxide init --cmd cd bash)"
+
+alias restart-ashell="pkill ashell ; ashell"
